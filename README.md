@@ -42,4 +42,3 @@ Passionate about **building scalable AI systems** & **user-focused software**
 )  
 
 ---
-🌸 *"Building with impact, learning with passion, and dreaming without limits."* 💎
