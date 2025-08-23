@@ -5,7 +5,7 @@ Passionate about **building scalable AI systems** & **user-focused software**
 ---
 
 ## 🥇 About Me  
-- 🎓 Software Industry and Multimedia Senior Student 
+- 🎓 Software Industry and Multimedia Senior Student at Alexandria University
 - 💻 Currently SWE Intern @ **Dell Technologies COE (Summer 2025)**  
 - 📚 Exploring **Generative AI & LLMs** for real-world applications  
 - 🚀 Former intern at Najahak and Banque Misr
