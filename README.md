@@ -1,12 +1,8 @@
 # 🌟 Hi, I'm Laila 💎  
 
 
-Passionate about **building scalable AI systems** & **user-focused software**
----
-
 ## 🥇 About Me  
 - 🎓 Software Industry and Multimedia Senior Student at Alexandria University
-- 💻 Currently SWE Intern @ **Dell Technologies COE (Summer 2025)**  
 - 📚 Exploring **Generative AI & LLMs** for real-world applications  
 - 🚀 Former intern at Dell Technologies , Banque Misr and Najahak
 - ❤️ I love combining **tech + creativity** to solve meaningful problems  
